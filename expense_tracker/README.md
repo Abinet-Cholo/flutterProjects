@@ -131,8 +131,7 @@ _Add app screenshots or GIFs here for better visualization._
 
 ## 👨‍💻 Author
 
-**Abinet Bushura Cholo**  
-- 📧 [ab11475@nyu.edu](mailto:ab11475@nyu.edu)  
+**Abinet Bushura Cholo**   
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abinet-cholo-a6a13029a)  
 - 🐙 [GitHub](https://github.com/Abinet-Cholo)  
 
